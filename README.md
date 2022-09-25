@@ -10,7 +10,7 @@ Image by SD. _view of moscow in fifties, Master and Margarita, professional illu
 
 This repo contains aligned corpus of 10 editions of MaM novel in different languages.
 
-It was created with [Lingtrain Alignment Studio](https://github.com/averkij/a-studio) which is an open-sourced tool fow aligning parallel texts and creating multilingual books. Feel free to join [our chat in tg](https://t.me/lingtrain_books) and the [Lingtrain project on GitHub]().
+It was created with [Lingtrain Alignment Studio](https://github.com/averkij/a-studio) which is an open-sourced tool fow aligning parallel texts and creating multilingual books. Feel free to join [our chat in tg](https://t.me/lingtrain_books) and the [Lingtrain project on GitHub](https://github.com/averkij/a-studio).
 
 ## Alignment process
 
