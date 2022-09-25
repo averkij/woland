@@ -10,7 +10,11 @@ Image by SD. _view of moscow in fifties, Master and Margarita, professional illu
 
 This repo contains aligned corpus of 10 editions of MaM novel in different languages.
 
-It was created with Lingtrain Alignment Studio which is an open-sourced tool fow aligning parallel texts and creating multilingual books. Feel free to join [our chat in tg](https://t.me/lingtrain_books) and the [Lingtrain project on GitHub]().
+It was created with [Lingtrain Alignment Studio](https://github.com/averkij/a-studio) which is an open-sourced tool fow aligning parallel texts and creating multilingual books. Feel free to join [our chat in tg](https://t.me/lingtrain_books) and the [Lingtrain project on GitHub]().
+
+## Alignment process
+
+TBD
 
 ## Languages
 
@@ -78,13 +82,13 @@ There are 10 languages by now.
 | <img src='img/flag-ch-h.svg' width='20'/> | 你们应该明白：人的舌头能够掩盖真情，但是眼睛却绝对做不到这一点！                   |
 
 | <img src='img/flag-ru-h.svg' width='20'/> &nbsp;&nbsp; | – Трудный народ эти женщины! – он засунул руки в карманы и далеко вперед вытянул ноги, – зачем, например, меня послали по этому делу?                                                                      |
-| ------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src='img/flag-bu-h.svg' width='20'/>                    | - Цяжкi народ гэтыя жанчыны! - ён усунуў рукi ў кiшэнi i далёка наперад выцягнуў ногi. - Нашто, напрыклад, мяне паслалi?                                                                                   |
-| <img src='img/flag-uk-h.svg' width='20'/>                    | — Трудний народ ці жінки! — він засунув руки в кишені й далеко уперед простягнув ноги. — Навіщо, наприклад, мене послали в цій справі?                                                                     |
-| <img src='img/flag-en-h.svg' width='20'/>                    | 'Difficult folk, these women!' he put his hands in his pockets and stretched his legs way out. 'Why, for instance, was I sent on this business?                                                            |
-| <img src='img/flag-de-h.svg' width='20'/>                    | "Ein schwieriges Volk, diese Weiber!" Er schob die Hände in die Taschen und streckte die Beine von sich. "Warum hat man diesen Auftrag bloß mir gegeben?                                                   |
-| <img src='img/flag-fr-h.svg' width='20'/>                    | – Fatigante engeance, que ces femmes ! (Il fourra ses mains dans ses poches et étendit ses jambes aussi loin que possible.) « Pourquoi est-ce moi, par exemple, qu’on a envoyé pour régler cette affaire ? |
-| <img src='img/flag-it-h.svg' width='20'/>                    | - Che gente difficile, queste donne! - si ficcò le mani in tasca e allungò le gambe. - Perché, ad esempio, hanno mandato me per questa faccenda?                                                           |
-| <img src='img/flag-es-h.svg' width='20'/>                    | —¡Qué gente más difícil son las mujeres! —se metió las manos en los bolsillos y estiró las piernas—. ¿Por qué me habrán mandado a mí para resolver este problema?                                          |
-| <img src='img/flag-hu-h.svg' width='20'/>                    | - Jaj, ezek a nők! Szörnyű népség! - Kezét zsebébe mélyesztette, s két lábát egyenesen maga elé nyújtotta. - Szeretném tudni, miért éppen engem küldtek magához?                                           |
-| <img src='img/flag-ch-h.svg' width='20'/>                    | 他不无挖苦地说："你们这些妇女们，可真难伺候！ "他说着把两手插进口袋，两条腿伸出去老远，"唉，这种差事为什么派我来干呢？                                                                                     |
+| ------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src='img/flag-bu-h.svg' width='20'/>              | - Цяжкi народ гэтыя жанчыны! - ён усунуў рукi ў кiшэнi i далёка наперад выцягнуў ногi. - Нашто, напрыклад, мяне паслалi?                                                                                   |
+| <img src='img/flag-uk-h.svg' width='20'/>              | — Трудний народ ці жінки! — він засунув руки в кишені й далеко уперед простягнув ноги. — Навіщо, наприклад, мене послали в цій справі?                                                                     |
+| <img src='img/flag-en-h.svg' width='20'/>              | 'Difficult folk, these women!' he put his hands in his pockets and stretched his legs way out. 'Why, for instance, was I sent on this business?                                                            |
+| <img src='img/flag-de-h.svg' width='20'/>              | "Ein schwieriges Volk, diese Weiber!" Er schob die Hände in die Taschen und streckte die Beine von sich. "Warum hat man diesen Auftrag bloß mir gegeben?                                                   |
+| <img src='img/flag-fr-h.svg' width='20'/>              | – Fatigante engeance, que ces femmes ! (Il fourra ses mains dans ses poches et étendit ses jambes aussi loin que possible.) « Pourquoi est-ce moi, par exemple, qu’on a envoyé pour régler cette affaire ? |
+| <img src='img/flag-it-h.svg' width='20'/>              | - Che gente difficile, queste donne! - si ficcò le mani in tasca e allungò le gambe. - Perché, ad esempio, hanno mandato me per questa faccenda?                                                           |
+| <img src='img/flag-es-h.svg' width='20'/>              | —¡Qué gente más difícil son las mujeres! —se metió las manos en los bolsillos y estiró las piernas—. ¿Por qué me habrán mandado a mí para resolver este problema?                                          |
+| <img src='img/flag-hu-h.svg' width='20'/>              | - Jaj, ezek a nők! Szörnyű népség! - Kezét zsebébe mélyesztette, s két lábát egyenesen maga elé nyújtotta. - Szeretném tudni, miért éppen engem küldtek magához?                                           |
+| <img src='img/flag-ch-h.svg' width='20'/>              | 他不无挖苦地说："你们这些妇女们，可真难伺候！ "他说着把两手插进口袋，两条腿伸出去老远，"唉，这种差事为什么派我来干呢？                                                                                     |
